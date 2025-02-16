@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 8px 16px;
+}
+
+#message, #adminPanel, #userSignInForm {
+    margin-top: 20px;
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+}
